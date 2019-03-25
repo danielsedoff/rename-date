@@ -1,4 +1,4 @@
-@echo off
+@echo off 
 
 choice /m "Uninstall rename-date? You will need administrator rights."
 
