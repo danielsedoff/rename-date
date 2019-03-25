@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 
 choice /m "Install rename-date? You will need administrator rights."
 if errorlevel 2 goto end
