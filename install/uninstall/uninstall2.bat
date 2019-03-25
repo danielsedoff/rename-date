@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 
 set d=c:\rename-date
 
