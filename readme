@@ -1,6 +1,8 @@
 rename-date
 
-rename-date is a small utility that integrates into Windows Explorer context menus and adds the current date to the files you have selected.
+rename-date is a small utility that integrates into 
+Windows Explorer context menus and adds the current date 
+to the files you have selected.
 
 Example:
 
@@ -15,4 +17,7 @@ After this, a directory called C:\rename-date will be created.
 To uninstall this utility, use uninstall.bat. 
 You also need administrator rights to launch it.
 
-Warning: If you try to uninstall it without administrator rights, the context menus will not disappear. In this case please reinstall rename-date and uninstall it again by choosing 'Run as Administrator'.
+If you try to uninstall it without administrator rights, 
+the context menus will not disappear. In this case 
+please reinstall rename-date and uninstall it again 
+by choosing 'Run as Administrator'.
